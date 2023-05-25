@@ -1,4 +1,4 @@
-# wfiscanner
+# wifiscanner
 Main function see available Wifi networks and view how strong signal is. <br/>
 You get listing overview available Wifi and can select single wifi when list is provided.<br/>
 I know project is a bit irrelevant (app on phone) but still fun to make. Also it is a reference<br/>
