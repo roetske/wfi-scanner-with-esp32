@@ -3,8 +3,9 @@ Main function see available Wifi networks and view how strong signal is. <br/>
 2 buttons <br/>
 1) button scroll in full list -when single scan active go back to list. <br/>
 2) go back to list when single scan is active <br/>
-Scan is done async. Normal scan takes too long. Data is refreshed in background when scan is finished.
-This was quite a hurdle.
+
+Scan is done async. Normal scan takes too long. Data is refreshed in background when scan is finished.<br/>
+This was quite a hurdle.<br/>
 
 You get listing overview available Wifi and can select single wifi when list is provided.<br/>
 I know project is a bit irrelevant (app available on phone) but still fun to make. Also it is a reference<br/>
