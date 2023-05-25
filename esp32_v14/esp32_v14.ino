@@ -16,8 +16,8 @@ external antenna (sticky version :))
 TZT 2.4Ghz 4dBi WIFI Internal Antenna PCB Built-in Aerial IPX IPEX Airgain Omni Antenna UFL Connector
 tft gmt 020-02 240x320
 2push buttons
-jst 3 connector
-jst 7 connector
+jst 3 connector pitch 2.54
+jst 8 connector pitch 2.54
 breadboard print (made soldering way easier)
 
 connecting tft is spi but naming on tft confused me
