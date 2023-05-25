@@ -1,7 +1,7 @@
 # wifiscanner
 Main function see available Wifi networks and view how strong signal is. <br/>
 You get listing overview available Wifi and can select single wifi when list is provided.<br/>
-I know project is a bit irrelevant (app on phone) but still fun to make. Also it is a reference<br/>
+I know project is a bit irrelevant (app available on phone) but still fun to make. Also it is a reference<br/>
 for future projects. You can see how strong the reception is for you esp32 specific.<br/>
 
 Credits to code from onetransisitor wifiscanner with esp8266. <br/>
